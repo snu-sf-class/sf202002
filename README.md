@@ -4,7 +4,7 @@
     + Email address: gil.hur@sf.snu.ac.kr
     + Office: 302-426
 - TA: [Dongjoo Kim](http://sf.snu.ac.kr/dongjoo.kim)
-    + Email address: dongjoo.kim@sf.snu.ac.kr
+    + Email address: sf@sf.snu.ac.kr
     + Office: 302-312-2
 - Class material: http://www.cis.upenn.edu/~bcpierce/sf/current/index.html
 - Please use email to ask questions (Don't use GitHub Issues)
@@ -17,9 +17,11 @@ TBA
 
 TBA
 
-## Grading
-
-TBA
+## Grading(tentative)
+- Attendance: 5%
+- Assignments: 25%
+- Mid-term: 30%
+- Final: 40%
 
 ## Coq
 
