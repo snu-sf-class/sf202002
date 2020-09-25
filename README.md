@@ -11,11 +11,16 @@
 
 ## Announcements
 
-TBA
+- Sep. 25: Assignment 1 is uploaded.
 
 ## Assignments
 
-TBA
+- Sumbssion server is delayed due to network issue. Server will be opened soon.
+
+| Due        	| Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+|------------	|-----------------------------------------------------------------------------------
+| Oct.9 23:59  	| Assignment 1 - Basic & Induction 	 	 	 	 	 	 	 	 	 	 	 	 	 	|
+
 
 ## Grading(tentative)
 - Attendance: 5%
