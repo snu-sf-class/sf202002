@@ -11,6 +11,7 @@
 
 ## Announcements
 
+- Sep. 29: Midterm will be held on Oct. 24th Sat, 1 - 5 pm
 - Sep. 25: Assignment 1 is uploaded.
 
 ## Assignments
