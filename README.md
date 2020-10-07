@@ -11,12 +11,20 @@
 
 ## Announcements
 
+- Oct. 7: Submission server is opened.
 - Sep. 29: Midterm will be held on Oct. 24th Sat, 1 - 5 pm
 - Sep. 25: Assignment 1 is uploaded.
 
 ## Assignments
 
-- Sumbssion server is delayed due to network issue. Server will be opened soon.
+- Download skeleton code and replace `FILL_IN_HERE` with your code in P**.v.
+- Visit http://147.46.245.103:8000 and log-in with your id (e.g. 2016-12345). Your initial password is equivalent to your id.
+- Change your password before submitting your assignments.
+- If you forget your password, email to ta(sf@sf.snu.ac.kr).
+- Use 'make submission' command and attach the zip file.
+- No delayed submission.
+- Claims: within 2 weeks from the due date, please.
+
 
 | Due        	| Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 |------------	|-----------------------------------------------------------------------------------
