@@ -11,7 +11,7 @@
 
 ## Announcements
 
-- Oct. 22: [Midterm exam announcement](https://github.com/snu-sf-class/pp202002/blob/master/MidtermInstruction.md)
+- Oct. 22: [Midterm exam announcement](https://github.com/snu-sf-class/sf202002/blob/master/MidtermInstruction.md)
 - Oct. 22: Assignment 2 is uploaded.
 - Oct. 7: Submission server is opened.
 - Sep. 29: Midterm will be held on Oct. 24th Sat, 1 - 5 pm
