@@ -11,6 +11,8 @@
 
 ## Announcements
 
+- Oct. 22: [Midterm exam announcement](https://github.com/snu-sf-class/pp202002/blob/master/MidtermInstruction.md)
+- Oct. 22: Assignment 2 is uploaded.
 - Oct. 7: Submission server is opened.
 - Sep. 29: Midterm will be held on Oct. 24th Sat, 1 - 5 pm
 - Sep. 25: Assignment 1 is uploaded.
@@ -29,7 +31,7 @@
 | Due        	| Description                   	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 |------------	|-----------------------------------------------------------------------------------
 | Oct.9 23:59  	| Assignment 1 - Basic & Induction 	 	 	 	 	 	 	 	 	 	 	 	 	 	|
-
+| Nov.6 23:59   | Assignment 2 - Lists & Poly & Logic                         |
 
 ## Grading(tentative)
 - Attendance: 5%
