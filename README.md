@@ -11,6 +11,7 @@
 
 ## Announcements
 
+- Oct. 25: [Midterm results](https://github.com/snu-sf-class/sf202002/blob/master/MidtermResults.pdf) is uploaded. We will support about missing files by checking in person. So if you want to check or have any other questions, email TA(sf@sf.snu.ac.kr).
 - Oct. 22: [Midterm exam announcement](https://github.com/snu-sf-class/sf202002/blob/master/MidtermInstruction.md)
 - Oct. 22: Assignment 2 is uploaded.
 - Oct. 7: Submission server is opened.
