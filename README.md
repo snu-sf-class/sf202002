@@ -11,6 +11,7 @@
 
 ## Announcements
 
+- Nov. 12: Extend assignment 3's deadline.
 - Nov. 09: Assignment 3 is uploaded.
 - Oct. 25: [Midterm results](https://github.com/snu-sf-class/sf202002/blob/master/MidtermResults.pdf) is uploaded. We will support about missing files by checking in person. So if you want to check or have any other questions, email TA(sf@sf.snu.ac.kr).
 - Oct. 22: [Midterm exam announcement](https://github.com/snu-sf-class/sf202002/blob/master/MidtermInstruction.md)
@@ -34,7 +35,7 @@
 |------------	|-----------------------------------------------------------------------------------
 | Oct.9 23:59  	| Assignment 1 - Basic & Induction 	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | Nov.6 23:59   | Assignment 2 - Lists & Poly & Logic                         |
-| Nov.23 23:59  | Assignment 3 - IndProp & Imp                                |
+| Nov.26 23:59  | Assignment 3 - IndProp & Imp                                |
 
 ## Grading(tentative)
 - Attendance: 5%
