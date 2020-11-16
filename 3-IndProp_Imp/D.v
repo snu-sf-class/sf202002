@@ -1,10 +1,10 @@
-From Coq Require Import Bool.Bool.
-From Coq Require Import Init.Nat.
-From Coq Require Import Arith.Arith.
-From Coq Require Import Arith.EqNat.
-From Coq Require Import Lia.
-From Coq Require Import Lists.List.
-From Coq Require Import Strings.String.
+From Coq Require Export Bool.Bool.
+From Coq Require Export Init.Nat.
+From Coq Require Export Arith.Arith.
+From Coq Require Export Arith.EqNat.
+From Coq Require Export Lia.
+From Coq Require Export Lists.List.
+From Coq Require Export Strings.String.
 
 Definition FILL_IN_HERE {T: Type} : T.  Admitted.
 
