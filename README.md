@@ -11,6 +11,7 @@
 
 ## Announcements
 
+- Nov. 19: Update assignment 3's P07 (You can prove examples with your own proof in P07.v).
 - Nov. 12: Extend assignment 3's deadline.
 - Nov. 09: Assignment 3 is uploaded.
 - Oct. 25: [Midterm results](https://github.com/snu-sf-class/sf202002/blob/master/MidtermResults.pdf) is uploaded. We will support about missing files by checking in person. So if you want to check or have any other questions, email TA(sf@sf.snu.ac.kr).
