@@ -11,6 +11,7 @@
 
 ## Announcements
 
+- Nov. 24: [Final exam announcement](https://github.com/snu-sf-class/sf202002/blob/master/FinalInstruction.md)
 - Nov. 19: Update assignment 3's P07 (You can prove examples with your own proof in P07.v).
 - Nov. 12: Extend assignment 3's deadline.
 - Nov. 09: Assignment 3 is uploaded.
