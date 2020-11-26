@@ -1,4 +1,4 @@
-# Midterm Exam
+# Final Exam
 
 - Date: Dec 20 (Sun), 6 pm ~ 10 pm (no strict timeout)
 - Place: Hardware Lab (Building 302, Room 310-2)
