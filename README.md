@@ -11,6 +11,7 @@
 
 ## Announcements
 
+- Nov. 30: Assignment 4 is uploaded.
 - Nov. 24: [Final exam announcement](https://github.com/snu-sf-class/sf202002/blob/master/FinalInstruction.md)
 - Nov. 19: Update assignment 3's P07 (You can prove examples with your own proof in P07.v).
 - Nov. 12: Extend assignment 3's deadline.
@@ -38,6 +39,7 @@
 | Oct.9 23:59  	| Assignment 1 - Basic & Induction 	 	 	 	 	 	 	 	 	 	 	 	 	 	|
 | Nov.6 23:59   | Assignment 2 - Lists & Poly & Logic                         |
 | Nov.26 23:59  | Assignment 3 - IndProp & Imp                                |
+| Dec.14 23:59  | Assignment 4 - Equiv & Hoare                                |
 
 ## Grading(tentative)
 - Attendance: 5%
